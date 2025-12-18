@@ -46,4 +46,3 @@ def organizar_pasta(caminho):
 if __name__ == "__main__":
     pasta = input("Digite o caminho da pasta que deseja organizar: ")
     organizar_pasta(pasta)
-
