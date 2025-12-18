@@ -56,4 +56,3 @@ Nenhuma instalação adicional é necessária.
 
 ```bash
 git clone https://github.com/valdodecruzalta/organizador-arquivos
-->
